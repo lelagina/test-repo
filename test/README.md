@@ -1,6 +1,3 @@
-private-data
-=================
-
 ## Lending Club
 
  [Data Website](https://www.lendingclub.com/info/download-data.action) 
@@ -28,7 +25,7 @@ private-data
 8. Employment Length (# years)
 9. Policy Code (all equal 0)
 
-#### Number of entries per file:
+##### Number of entries per file:
 
 RejectStatsA.csv 756267
 
@@ -36,8 +33,7 @@ RejectStatsB.csv 1048574
 
 RejectStatsD.csv 560559
 
-#### Total number of entries:
-
+##### Total number of entries:
 RejectStats.csv 2365401
 
 ###### Uploaded Date
