@@ -5,15 +5,16 @@
 <p> These files contain the list and details of all loan applications that did not meet Lending Club's credit underwriting policy.
 </blockquote>
 
+* Total number of applications (RejectStats.csv) - 2,365,401
+
+
 ##### Attributes
 
 1. Amount Requested
-
     * Min Amount - 0
     * Max Amount - 1,400,000
     * Average Amount - 13771,0906
     * Most Common Amount - 10,000
-
 2. Application Date (month/date/year)
 3. Loan Title (String login)
 4. Risk Score (0-800)
@@ -29,8 +30,7 @@
 * RejectStatsB - 1,048,574
 * RejectStatsD - 560,559
 
-##### Total number of entries:
-* RejectStats.csv - 2,365,401
+
 
 ###### Uploaded Date
 06/01/2015
