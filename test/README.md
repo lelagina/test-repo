@@ -11,7 +11,7 @@
 * RejectStatsD - 560,559
 * RejectStats (Total) - 2,365,401
 
-##### Attributes
+##### Attributes Description
 
 1. Amount Requested
     * Min Amount - 0.0
