@@ -14,17 +14,17 @@
 ##### Attributes
 
 1. Amount Requested
-    * Min Amount - 0
+    * Min Amount - 0.0
     * Max Amount - 1,400,000
     * Average Amount - 13771,0906
     * Most Common Amount - 10,000
 2. Application Date (month/date/year)
 3. Loan Title (String login)
 4. Risk Score 
-* Min Amount - 0
-* Max Amount - 990
-* Average Amount - 612,7579
-* Most Common Amount - 0
+    * Min Amount - 0.0
+    * Max Amount - 990
+    * Average Amount - 612,7579
+    * Most Common Amount - 0.0
 5. Debt To Income Ratio (%)
 6. Zip Code (123xx)
 7. State (two letters)
