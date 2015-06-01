@@ -5,8 +5,11 @@
 <p> These files contain the list and details of all loan applications that did not meet Lending Club's credit underwriting policy.
 </blockquote>
 
-* Total number of applications (RejectStats.csv) - 2,365,401
-
+##### Number of loan applications per file:  
+* RejectStatsA - 756,267
+* RejectStatsB - 1,048,574
+* RejectStatsD - 560,559
+* RejectStats (Total) - 2,365,401
 
 ##### Attributes
 
@@ -23,14 +26,6 @@
 7. State (two letters)
 8. Employment Length (# years)
 9. Policy Code (all equal 0)
-
-##### Number of entries per file:
-
-* RejectStatsA - 756,267
-* RejectStatsB - 1,048,574
-* RejectStatsD - 560,559
-
-
 
 ###### Uploaded Date
 06/01/2015
