@@ -16,20 +16,20 @@
 1. Amount Requested
     * Min Amount - 0.0
     * Max Amount - 1,400,000
-    * Average Amount - 13771,0906
+    * Average Amount - 13,771.0906
     * Most Common Amount - 10,000
 2. Application Date (month/date/year)
 3. Loan Title (String login)
 4. Risk Score 
     * Min Score - 0.0
     * Max Score - 990
-    * Average Score - 612,7579
+    * Average Score - 612.7579
     * Most Common Score - 0.0
 5. Debt To Income Ratio (%)
-    * Min Ratio - - 1.0
-    * Max Ratio - 50,000,031.49 (possible error in data)
-    * Average Ratio - 423.1838
-    * Most Common Ratio - 0.0
+    * Min Ratio - -1.0%
+    * Max Ratio - 50,000,031.49% (possible error in data)
+    * Average Ratio - 423.1838%
+    * Most Common Ratio - 0.0%
 6. Zip Code (123xx)
 7. State (two letters)
 8. Employment Length (# years)
