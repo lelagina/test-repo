@@ -4,11 +4,11 @@
 </blockquote>
 
 ##### Number of issued loans per file:  
-* LoanStats3a - 42,535
+* LoanStats3a - 42,542
 * LoanStats3b - 188,127
 * LoanStats3c - 235,633
 * LoanStats3d - 84,281
-* LoanStats3 (Total) - 
+* LoanStats3 (Total) - 550,583
 
 ##### Attributes Description:
 
@@ -37,7 +37,7 @@
     * Max Installment - 1,409.00
     * Average Installment - 434.1537
     * Most Common Installment - 327.34
-14. Annual Income
+14. Annual Income (annual_inc)
     * Min Income - 1,896
     * Max Income - 8,706,582
     * Average Income - 73,614.2039
@@ -47,11 +47,11 @@
     * Max Ratio - 39.99
     * Average Ratio - 17.5078
     * Most Common Ratio - 14.4
-31. Open Credit Lines (open_acc)
-    * Min Lines - 0.0
-    * Max Lines - 90
-    * Average Lines - 11.2901 
-    * Most Common Lines - 9
+31. Number of Open Credit Lines (open_acc)
+    * Min Number - 0.0
+    * Max Number - 90
+    * Average Number - 11.2901 
+    * Most Common Number - 9
 33. Total Credit Revolving Balance (revol_bal)
     * Min Balance - 0.0
     * Max Balance - 2,568,995
@@ -63,10 +63,10 @@
     * Average Rate - 56.1021
     * Most Common Rate - 0.0
 35. Total Number of Credit Lines (total_acc)
-    * Min Lines - 1.0
-    * Max Lines - 162
-    * Average Lines - 25.1699 
-    * Most Common Lines - 22
+    * Min Number - 1.0
+    * Max Number - 162
+    * Average Number - 25.1699 
+    * Most Common Number - 22
 39. Total Payment (total_pymnt)
     * Min Payment - 0.0
     * Max Payment - 55,758.2220
@@ -95,4 +95,4 @@
 
 
 ###### Uploaded Date
-05/11/2015
+06/01/2015
