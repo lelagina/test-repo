@@ -16,12 +16,12 @@
     * Min Amount - 500
     * Max Amount - 35,000
     * Average Amount - 14,468.8104
-    * Most Common Amount - 10,000
+    * Most Common Amount - 10,000 
 3. Funded Amount (funded_amnt)
     * Min Amount - 500
     * Max Amount - 35,000
     * Average Amount - 14,447.2337
-    * Most Common Amount - 10,000
+    * Most Common Amount - 10,000 
 4. Funded Amount Investors (funded_amnt_inv)
     * Min Amount - 0.0
     * Max Amount - 35,000
